@@ -1,6 +1,6 @@
 # Gym Tracker
 
-## First Verion
+## First Version
 A private, offline-first gym and body tracker. All data is stored **on your device**
 (IndexedDB) — no account, no cloud, no server.
 
